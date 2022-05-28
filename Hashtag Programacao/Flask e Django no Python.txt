@@ -1,0 +1,51 @@
+YOU TUBE: https://www.youtube.com/watch?v=Bf12xA4PP_k
+
+Quer saber mais sobre o nosso Curso Completo de Python? Clique no link abaixo para garantir sua vaga na próxima turma:
+https://pages.hashtagtreinamentos.com...
+
+PARA BAIXAR O MINICURSO GRATUITO DE PYTHON: http://pages.hashtagtreinamentos.com/...
+
+-----------------------------------------------------------------------
+
+► Arquivos Utilizados no Vídeo: https://pages.hashtagtreinamentos.com...
+
+► Crie seu 1º Site em Python: https://excelparaestagio.klickpages.c...
+
+-----------------------------------------------------------------------
+
+Fala Galera! Hoje nós vamos ter uma aula rápida, mas é para falar sobre Flask e Django no Python.
+
+Você já deve ter visto algumas aulas aqui no canal sobre criação de sites em Python e nós já utilizamos tanto o Flask quanto o Django, mas qual o melhor Flask ou Django?
+
+Essas duas ferramentas são frameworks para criação de sites, criação de sistemas, criação de API...
+
+Só que não vamos ter uma ferramenta que é melhor, isso vai depender da sua aplicação, da empresa que quer trabalhar, de qual ferramenta quer se especializar.
+
+A ideia é te mostrar algumas diferenças entre Flask e Django para que você tenha uma noção para que serve o Flask e para que serve o Django.
+
+E ainda falar sobre algumas empresas grandes e famosas que utilizam o Flask e outra que utilizam o Django.
+
+E aí, curioso para saber a diferença entre essas ferramentas e qual pode ser melhor para sua aplicação?
+
+-----------------------------------------------------------------------
+
+Hashtag Programação
+
+► Inscreva-se em nosso canal: http://bit.ly/3c0LJQi
+► Ative as notificações (clica no sininho)!
+► Curta o nosso vídeo!
+
+-----------------------------------------------------------------------
+
+Redes Sociais
+
+► Blog: https://bit.ly/2MRUZs0
+► YouTube: http://bit.ly/3c0LJQi
+► Instagram: https://bit.ly/3o6dw42
+► Facebook: http://bit.ly/3qGtaF2
+
+Aqui nos vídeos do canal da Hashtag Programação ensinamos diversas dicas de Python para que você consiga se desenvolver nessa linguagem de programação!
+
+-----------------------------------------------------------------------
+
+#python #hashtagprogramacao
